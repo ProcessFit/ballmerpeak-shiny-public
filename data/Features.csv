@@ -1,0 +1,65 @@
+FeatureName,Type,Source
+dist_cbd,calculated,Lat/Long
+mean(dist),calculated,Lat/Long
+median(dist),calculated,Lat/Long
+nearest_train_dist,calculated,Lat/Long
+nearest_tram_dist,calculated,Lat/Long
+min(dist),calculated,Lat/Long
+sum(dist < 1000),calculated,Lat/Long
+sum(dist < 500),calculated,Lat/Long
+sum(dist < 200),calculated,Lat/Long
+month_discount,calculated,Monthly Price
+week_discount,calculated,Weekly Price
+shampoo,Dummy,Amentities
+self checkin,Dummy,Amentities
+hair dryer,Dummy,Amentities
+iron,Dummy,Amentities
+hangers,Dummy,Amentities
+lockbox,Dummy,Amentities
+24hour checkin,Dummy,Amentities
+doorman entry,Dummy,Amentities
+wheelchair accessible,Dummy,Amentities
+laptop friendly workspace,Dummy,Amentities
+familykid friendly,Dummy,Amentities
+essentials,Dummy,Amentities
+buzzerwireless intercom,Dummy,Amentities
+breakfast,Dummy,Amentities
+elevator in building,Dummy,Amentities
+pool,Dummy,Amentities
+internet,Dummy,Amentities
+free parking on premises,Dummy,Amentities
+bed_typeCouch,Dummy,Bed Type
+bed_typeAirbed,Dummy,Bed Type
+bed_typePull-out Sofa,Dummy,Bed Type
+bed_typeReal Bed,Dummy,Bed Type
+bed_typeFuton,Dummy,Bed Type
+property_typeApartment,Dummy,Property Type
+property_typeBungalow,Dummy,Property Type
+property_typeBoat,Dummy,Property Type
+property_typeGuesthouse,Dummy,Property Type
+property_typeLoft,Dummy,Property Type
+property_typeHouse,Dummy,Property Type
+property_typeTownhouse,Dummy,Property Type
+property_typeTipi,Dummy,Property Type
+property_typeCamper/RV,Dummy,Property Type
+property_typeOther,Dummy,Property Type
+property_typeTreehouse,Dummy,Property Type
+property_typeCabin,Dummy,Property Type
+property_typeVilla,Dummy,Property Type
+property_typeBed & Breakfast,Dummy,Property Type
+property_typeEarth House,Dummy,Property Type
+property_typeCondominium,Dummy,Property Type
+property_typeBoutique hotel,Dummy,Property Type
+property_typeServiced apartment,Dummy,Property Type
+property_typeDorm,Dummy,Property Type
+room_typePrivate room,Dummy,Room Type
+room_typeEntire home/apt,Dummy,Room Type
+room_typeShared room,Dummy,Room Type
+price,log transform,original data
+price_pp,log transform,original data
+extra_people,,original data
+guests_included,,original data
+accommodates,,original data
+bedrooms,,original data
+bathrooms,,original data
+beds,,original data

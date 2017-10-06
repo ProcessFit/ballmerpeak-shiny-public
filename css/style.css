@@ -1,0 +1,32 @@
+/*import url('https://fonts.googleapis.com/css?family=Roboto:400,700|Source+Sans+Pro');
+*/
+
+iframe:focus { 
+    outline: none;
+}
+
+iframe { 
+    display: block;
+    border-width: 0px;
+}
+
+.logo_big {
+    /*opacity: 1;*/
+    float: right;
+}
+
+.logo_sm .navbar-brand {
+  display: flex;
+  align-items: center;
+}
+.logo_sm .navbar-brand>img {
+  padding: 7px 14px;
+}
+
+.multicol { 
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */ 
+  -moz-column-count: 2;    /* Firefox */ 
+  column-count: 2; 
+  -moz-column-fill: auto;
+  -column-fill: auto;
+  } 
