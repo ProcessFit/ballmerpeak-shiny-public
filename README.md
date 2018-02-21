@@ -23,7 +23,7 @@ Gradient boosted decision tree
 - Google maps service for live geocoding of input address and for geocoding the TripAdvisor Locations
 
 ## Collaborators
-Ed Farrell, Letian, Wang, [Lindy WoodBurn](https://github.com/ProcessFit), Michael Rodd, Nick De Silva
+[Ed Farrell](https://github.com/EdFarrellDS), Letian Wang, [Lindy WoodBurn](https://github.com/ProcessFit), Michael Rodd, Nick De Silva
 
 ## Deployment
 Final version for the Datathon deployed [here](https://lwbayes91.shinyapps.io/ballmerpeak/).
